@@ -1,1 +1,1 @@
-# Multithreaded-Web-Server
+First use terminal and check the response of the server. Then to increase the load use Jmeter for testing it and remember dont keep the responses so high that you pc might crash so be alert. Im Aditya have a wonderfull experience!!!.
